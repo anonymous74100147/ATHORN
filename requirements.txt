@@ -1,0 +1,7 @@
+axios
+cheerio
+puppeteer
+chalk
+http
+https
+readline
